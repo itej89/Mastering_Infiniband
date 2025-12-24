@@ -1,0 +1,1 @@
+/opt/rocm/bin/hipcc -Xlinker --dependency-file=CMakeFiles/gpu_pingpong_server.dir/link.d CMakeFiles/gpu_pingpong_server.dir/gpu_pingpong_server.cpp.o -o gpu_pingpong_server  ../../libibboilerplate.a -lamdhip64 /usr/lib/x86_64-linux-gnu/libibverbs.so /usr/lib/x86_64-linux-gnu/librdmacm.so

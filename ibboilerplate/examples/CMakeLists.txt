@@ -1,0 +1,2 @@
+add_subdirectory(pingpong)
+add_subdirectory(gpu_pingpong)

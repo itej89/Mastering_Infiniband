@@ -1,0 +1,2 @@
+/usr/bin/ar qc libibboilerplate.a CMakeFiles/ibboilerplate.dir/src/rdma_base.cpp.o
+/usr/bin/ranlib libibboilerplate.a
