@@ -1,1 +1,0 @@
-/opt/rocm/bin/hipcc -Xlinker --dependency-file=CMakeFiles/pingpong_client.dir/link.d CMakeFiles/pingpong_client.dir/pingpong_client.cpp.o -o pingpong_client  ../../libibboilerplate.a /usr/lib/x86_64-linux-gnu/libibverbs.so /usr/lib/x86_64-linux-gnu/librdmacm.so

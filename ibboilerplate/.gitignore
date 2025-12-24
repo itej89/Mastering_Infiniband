@@ -1,0 +1,30 @@
+
+# ===== Compiler/Linker artifacts =====
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.dylib
+*.dll
+
+# ===== Binary outputs =====
+*.out
+*.elf
+a.out
+
+# ===== Common build/output dirs =====
+/bin/
+/build/
+/dist/
+/out/
+/target/
+/.venv/
+/node_modules/
+
+# If you keep executables without extensions under a known dir:
+# (Linux executables often have no extension)
+bin/*
+build/**
+out/**
